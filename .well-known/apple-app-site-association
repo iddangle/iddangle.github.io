@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "XKK9KC9S3E.com.ske.muffinev.stg"
+                ],
+                "components": [
+                    {
+                        /: "*"
+                    }
+                ]
+            }
+        ]
+    }
+}
