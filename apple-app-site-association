@@ -1,13 +1,13 @@
 {
-    applinks: {
-        details: [
+    "applinks": {
+        "details": [
             {
-                appIDs: [
+                "appIDs": [
                     "XKK9KC9S3E.com.ske.muffinev.stg"
                 ],
-                components: [
+                "components": [
                     {
-                        /: "*"
+                        "/": "?*"
                     }
                 ]
             }
